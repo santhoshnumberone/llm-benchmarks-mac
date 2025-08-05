@@ -12,7 +12,6 @@ A hands-on benchmark comparing `ctransformers` vs `llama.cpp` for local inferenc
 | ctransformers   | ~15 seconds  | ✅ Easy     | Rapid prototyping                  |
 | llama.cpp       | ~10 seconds  | ⚠️ Verbose  | RAG pipelines, speed-sensitive apps|
 
-Read the full write-up on [Medium](https://medium.com/@santhoshnumber1/benchmarking-ctransformers-vs-llama-cpp-local-llm-inference-on-m1-macbook-with-zephyr-mistral-86264805d16b)  
 Follow the author on [LinkedIn](https://www.linkedin.com/in/santhosh-electraanu/)  
 
 ---
