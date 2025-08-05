@@ -67,7 +67,3 @@ This repo is ideal for:
 ### 📬 Author
 👤 Santhosh — Builder & AI Engineer
 
-📩 LinkedIn | ✍️ Medium
-
-#### 🌟 Star this repo if it helped you!
-
